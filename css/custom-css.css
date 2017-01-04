@@ -1,0 +1,44 @@
+/*Detalle header 10117-150117*/
+.header10117-150117 {}
+
+.header10117-150117-1 {
+	background: url(http://fundacionuno.org/wp-content/uploads/2017/01/10117-150117-1.svg) no-repeat;
+	width: 62px;
+	height: 200px;
+	position: fixed;
+	top: 0;
+	left: 20%;
+}
+
+.header10117-150117-2 {
+	background: url(http://fundacionuno.org/wp-content/uploads/2017/01/10117-150117-2.svg) no-repeat;
+	width: 100%;
+	height: 200px;
+	position: fixed;
+	top: 0;
+	left: 40%;
+}
+
+.header10117-150117-3 {
+	background: url(http://fundacionuno.org/wp-content/uploads/2017/01/10117-150117-3.svg) no-repeat;
+	width: 100%;
+	height: 200px;
+	position: fixed;
+	top: 0;
+	left: 60%;
+}
+
+.header10117-150117-4 {
+	background: url(http://fundacionuno.org/wp-content/uploads/2017/01/10117-150117-4.svg) no-repeat;
+	width: 100%;
+	height: 200px;
+	position: fixed;
+	top: 0;
+	left: 80%;
+}
+
+@media only screen and (max-width: 1000px) {
+	.header10117-150117 {
+		display: none;
+	}
+}
